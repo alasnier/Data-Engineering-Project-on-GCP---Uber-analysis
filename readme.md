@@ -1,4 +1,4 @@
-# Data Engineering Project on GCP -> Uber analysis
+# Data Engineering Project on GCP :cloud: -> Uber analysis :taxi:
 
 <br>
 
@@ -9,7 +9,7 @@ This project provides a framework and set of tools to facilitate various data en
 
 <br>
 
-# Roadmap:
+# Roadmap 🗺
 From raw data to report
 
 1. Extract datas from "NYC Taxi & Limousine Commission"
@@ -22,13 +22,13 @@ From raw data to report
 <br>
 
 
-# Architecture
+# Architecture 🏭
 <img src="img\final_project_architecture.jpg">
 
 <br>
 
 
-# Programming language:
+# Programming language :black_nib:
 Python and SQL
 
 <br>
@@ -37,30 +37,31 @@ Python and SQL
 <br>
 <br>
 
-# My notes:
-GCP Cloud Storage = AWS S3 = Azure Blob Storage
+# My notes :pencil2:
+
+:cloud: GCP Cloud Storage = AWS S3 = Azure Blob Storage
 ⇒ Store data → DataLake
 <br>
 
-GCP Compute Engine = AWS EC2 = Azure xxxx
+:cloud: GCP Compute Engine = AWS EC2 = Azure xxxx
 ⇒ Virtual Machine
 <br>
 
-GCP BigQuery 
+:cloud: GCP BigQuery 
 ⇒ SQL Queries → DataWareHouse
 <br>
 
-GCP Looker Studio
+:cloud: GCP Looker Studio
 ⇒ Data Viz → Dashboard
 
 <br>
 
-Mage AI
+🧙 Mage AI
 ⇒ OpenSource data pipeline
 
 <br>
 
-<ins>Fact vs Dimension tables</ins><br>
+📇 <ins>Fact vs Dimension tables</ins><br>
 quantitative datas, that change frequently and used for analysis<br>
 vs.<br>
 describe datas and attributes for grouping or filtering. They don’t change frequently
